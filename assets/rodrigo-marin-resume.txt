@@ -1,0 +1,61 @@
+RODRIGO MARIN III
+Anaheim, CA | rodrigofmarin@gmail.com | (310) 489-1271
+
+PROFESSIONAL SUMMARY
+Senior software engineer focused on developer productivity, release engineering, automation, and internal platform tooling. Experienced building software, APIs, deployment workflows, and operational systems for game development and SaaS environments. Strong background in Go, Python, PowerShell, CI/CD, infrastructure automation, and cross-functional delivery at scale.
+
+TECHNICAL SKILLS
+Languages: Go, Python, PowerShell, C#, JavaScript, SQL/T-SQL, Bash, PHP, Ruby
+Platforms and Tools: Terraform, Ansible, Jenkins, Jira, PagerDuty, Git, REST APIs, Windows Server, Linux, VMware, Hyper-V
+Focus Areas: Developer Productivity, Release Automation, Internal Tools, Infrastructure as Code, Troubleshooting, Cloud and SaaS Operations
+
+PROFESSIONAL EXPERIENCE
+
+RIOT GAMES | Santa Monica, CA
+Software Engineer | May 2020 - Present
+- Built and operated tooling and workflows used to package, validate, and deploy games to external platforms including the Apple App Store and Google Play.
+- Developed browser-based automation for storefronts without formal APIs, including Samsung Galaxy Store integrations, eliminating repetitive manual entry and saving 2,000+ hours.
+- Refactored the core API storage layer to improve flexibility for game teams managing build artifacts and distribution workflows.
+- As one of two engineers leading a full redesign of an inherited Slack bot platform, built automation that creates, categorizes, assigns, and manages thousands of tickets per year directly from customer Slack channels, accelerating resolution workflows; most recently extended the platform with Perforce Swarm integration to improve code review functionality beyond the native Slack solution.
+- Supported five game teams plus R&D through onboarding, troubleshooting, and engineering consultation, helping more than 200 team members adopt internal tools and resolve development issues.
+
+Systems Administrator | August 2016 - May 2020
+- Planned, built, and supported 15 source control systems used by teams developing League of Legends, Teamfight Tactics, VALORANT, and Wild Rift across multiple offices and time zones.
+- Built software layers around source control platforms to automate provisioning, permissions, and license management, reducing onboarding access time from days to near zero and removing manual HR dependencies.
+- Implemented automation and configuration management with Ansible and Terraform to make production changes repeatable and reliable.
+- Supported 300+ software developers, game developers, and other end users in a high-touch technical support model for source control and build systems.
+- Wrote RFC-style proposals and technical documentation for new systems, changes, and operational practices.
+- Reduced build times from more than 60 minutes to under 30 minutes by optimizing Jenkins pipelines and automating tool installation and configuration with PowerShell.
+
+SYMANTEC CORPORATION, NETWORK OPERATIONS | Culver City, CA
+Senior Principal Security Infrastructure Administrator | May 2014 - August 2016
+Principal Security Infrastructure Administrator | January 2012 - May 2014
+- Designed, managed, and maintained infrastructure for seven global enterprise vault.cloud SaaS data centers supporting hosted messaging and archiving services for more than 10,000 customers.
+- Standardized server builds and naming conventions to improve consistency and operational support.
+- Built multi-threaded PowerShell automation that reduced large-scale log search time from six hours to nine minutes across thousands of log files.
+- Partnered with engineering, QA, product management, and support leadership to prioritize 20 to 30 cross-functional initiatives.
+- Served as an escalation point and subject matter expert for troubleshooting hosted messaging, archiving, and automation issues.
+- Received a Heroic Save award for leading a rapid replacement of a competitor product before license expiration, avoiding approximately $100,000 in cost.
+- Recognized as the 2013 business unit MVP by senior management.
+
+Selected Projects
+- Planned and procured a six-node SQL cluster refresh with minimal downtime, improving application performance and capacity.
+- Reduced software release configuration review time from six hours to 30 minutes through PowerShell automation.
+- Led the migration of 40 internet-facing services from legacy load balancers to F5 Viprion hardware while maintaining 99.99% uptime and increasing throughput from 1 GB to 40 GB.
+- Built a development and test environment mirroring production using VMware ESX, Dell M1000E chassis, M620 blades, and HP 3PAR SAN infrastructure.
+
+LIVEOFFICE LLC, NETWORK OPERATIONS | Torrance, CA
+Lead Systems Engineer | May 2011 - January 2012
+Systems Engineer | October 2008 - May 2011
+Lead Technical Support Representative | November 2006 - October 2008
+- Supported email archiving, hosting, web hosting, and e-discovery/compliance services across seven global data centers serving hundreds of thousands of users.
+- Supervised junior and senior administrators within a 10-person support organization and handled escalated technical issues.
+- Monitored service health across seven data centers while maintaining 99.99% uptime.
+- Coordinated deployments, release processes, documentation, and production troubleshooting with software engineering teams.
+- Managed service incidents, performed root cause analysis, and communicated updates to customer service and technical support teams.
+
+CERTIFICATIONS
+Microsoft Certified Professional, 2012
+Microsoft Certified Technology Specialist, 2012
+Microsoft Certified Technology Specialist, 2010
+TS: Windows 7, Configuring
