@@ -198,6 +198,11 @@ a:hover {
   grid-column: span 8;
 }
 
+.impact-panel,
+.certifications-panel {
+  grid-column: span 4;
+}
+
 .impact-grid,
 .tag-list {
   display: flex;
@@ -215,7 +220,7 @@ a:hover {
 
 .impact-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 1fr;
 }
 
 .impact-grid div {
