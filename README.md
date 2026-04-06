@@ -1,7 +1,6 @@
 # Resume Site
-
-This folder contains a static resume site intended for GitHub Pages or any basic static file host.
-
+(Notes and various reminders for myself about this project. Not intended as a general guide.)
+This folder contains a static resume site intended for GitHub Pages.
 ## Files
 
 - `index.html`: resume landing page
@@ -36,6 +35,18 @@ If you want the site at your root GitHub Pages URL:
 3. In GitHub, open repository Settings, then Pages.
 4. Under Build and deployment, set Source to `GitHub Actions`.
 5. Push to `main` and let the workflow deploy the site.
+
+## Generate DOCX locally
+
+If you want a basic DOCX generated from the plain text resume source, run:
+
+`python.exe generate_docx.py`
+
+That reads `assets/rodrigo-marin-resume.txt` and writes `assets/rodrigo-marin-resume.docx`.
+
+You can also pass custom input and output paths:
+
+`python.exe generate_docx.py input.txt output.docx`
 
 ## Notes
 
